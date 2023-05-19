@@ -12,16 +12,16 @@ The goal is to collect as much information as possible and to make it easy to us
 
 | Name            | Description                                                    | Status      |
 | --------------- | -------------------------------------------------------------- | ----------- |
-| BIOS            | Collect BIOS information                                       | Not Starder |
-| Hardware        | Collect hardware information                                   | Not Starder |
-| Network         | Collect network information                                    | Not Starder |
-| OS              | Collect OS information                                         | Not Starder |
-| Software        | Collect software information. Include 32 and 64 bit softwares. | Not Starder |
-| User            | Collect user information                                       | Not Starder |
-| Services        | Collect services information                                   | Not Starder |
-| Windows License | Collect Windows License information                            | Not Starder |
-| Firewall        | Collect Firewall information                                   | Not Starder |
-| Disk            | Collect Disk information                                       | Not Starder |
+| BIOS            | Collect BIOS information                                       | Not Started |
+| Hardware        | Collect hardware information                                   | Not Started |
+| Network         | Collect network information                                    | Not Started |
+| OS              | Collect OS information                                         | Not Started |
+| Software        | Collect software information. Include 32 and 64 bit softwares. | Not Started |
+| User            | Collect user information                                       | Not Started |
+| Services        | Collect services information                                   | Not Started |
+| Windows License | Collect Windows License information                            | Not Started |
+| Firewall        | Collect Firewall information                                   | Not Started |
+| Disk            | Collect Disk information                                       | Not Started |
 
 **The tool is still in development and is not ready for production.**
 
